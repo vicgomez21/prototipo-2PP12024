@@ -3,7 +3,8 @@
 #include<iostream>
 #include<fstream>
 #include<string>
-
+//#Administrador;
+//#contraseña:1234;
 using namespace std;
 
 class usuario

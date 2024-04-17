@@ -1,1 +1,2 @@
 100            mause          50             500            
+01             victor         gerente        ventas         10000          activo         

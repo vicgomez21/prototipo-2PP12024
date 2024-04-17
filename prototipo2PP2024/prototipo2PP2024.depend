@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1713373518 source:c:\users\victo\onedrive\escritorio\parcial2\prototipo2pp2024\main.cpp
+	<iostream>
+	<usuario.h>
+	<menuG.h>
+
+1713371814 c:\users\victo\onedrive\escritorio\parcial2\prototipo2pp2024\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713373728 c:\users\victo\onedrive\escritorio\parcial2\prototipo2pp2024\include\menug.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371607 source:c:\users\victo\onedrive\escritorio\parcial2\prototipo2pp2024\src\menug.cpp
+	"menuG.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371607 source:c:\users\victo\onedrive\escritorio\parcial2\prototipo2pp2024\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+

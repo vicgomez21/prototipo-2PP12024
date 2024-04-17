@@ -9,18 +9,25 @@ using namespace std;
 class menuG
 {
     public:
-        menuG(string id, string nombre, string precio, string cantidad);
+        menuG(string id, string nombre, string puesto, string departamento,string sueldo,string status);
+
        string setId(string id);
         string getId();
 
         string setNombre(string nombre);
         string getNombre();
 
-        string setPrecio(string precio);
-        string getPrecio();
+        string setPuesto(string puesto);
+        string getPuesto();
 
-        string setCantidad(string cantidad);
-        string getCantidad();
+        string setDepartamento(string departamento);
+        string getDepartamento();
+
+                string setSueldo(string sueldo);
+        string getSueldo();
+
+                string setStatus(string status);
+        string getStatus();
 //metodos
 
      void menuPrincipal();
@@ -34,7 +41,7 @@ class menuG
     protected:
 
     private:
-    string id,nombre,precio,cantidad;
+    string id,nombre,puesto,departamento,sueldo,status;
 };
 
 
